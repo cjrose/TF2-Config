@@ -8,6 +8,13 @@ If you want to try out my settings, you can do so by clicking `Code -> Download 
 3. Temporarily move any other configs you may have already in your `custom` folder
 4. Restart your game if it's running
 
+### Launch options
+For your launch options on TF2, enter the following
+`
+-full -w YOUR_MONITOR_PIXEL_WIDTH -h YOUR_MONITOR_PIXEL_HEIGHT -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -freq YOUR_MONITOR_FREQUENCY_IN_NUMBERS -no_texture_stream`
+
+Obviously changing the values in all caps to match your specific setup. It is also recommended to add `dxlevel=100` to your first startup, to have your dxlevel automatically set. Remove it before you launch the game next time.
+
 And that's it! Everything will run on it's own when you launch your game next.
 
 ### Startup lag?
@@ -28,6 +35,8 @@ Some scripts also come with commands / keybinds you can use to use their functio
 * `PGDN`    -   Shows all the keybinds for the Demo Support Extension
 * `[`       -   Shows all the keybinds for the HUD Editing / Fixes Extension
 
+## Customizing
+You can customize the keybinds and all the settings to your liking. Feel free to edit any .cfg in the `TF2-Config/cfg/user/` folder.
 
 ## Credits
 I didn't make all of these configs, some of them are stolen from TF.TV. Also, the underlying graphics settings are set through Mastercomfig's Module feature. Check `TF2-Config/cfg/user/modules.cfg` and [the docs](https://docs.mastercomfig.com/en/latest/customization/modules/) for more info.

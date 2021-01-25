@@ -25,4 +25,4 @@ Some scripts also come with commands / keybinds you can use to use their functio
 
 
 ## Credits
-I didn't make all of these configs, some of them are stolen from TF.TV. Also, the underlying graphics settings are set through Mastercomfig's Module feature. Check `TF2-Config/cfg/user/modules.cfg` and [https://docs.mastercomfig.com/en/latest/customization/modules/](the docs) for more info.
+I didn't make all of these configs, some of them are stolen from TF.TV. Also, the underlying graphics settings are set through Mastercomfig's Module feature. Check `TF2-Config/cfg/user/modules.cfg` and [the docs](https://docs.mastercomfig.com/en/latest/customization/modules/) for more info.

@@ -30,6 +30,7 @@ Some scripts also come with commands / keybinds you can use to use their functio
 ### Commands
 * `regen`   -   Enables a regen script that will have you constantly regaining health and ammo so you can practice offline jumping. You may want to turn your volume down if the noise annoys you.
 * `practice_rollout`    -   This binds (to default) `b` to be a key you can press on an offline server to restart the game and give you a buff to simulate rolling out in competitive.
+* `togglegr`        -   Toggles ragdolls and gibs from their default to off. This is included to improve competive play / FPS
 
 ### Binds
 * `PGDN`    -   Shows all the keybinds for the Demo Support Extension

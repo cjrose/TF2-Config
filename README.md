@@ -10,6 +10,11 @@ If you want to try out my settings, you can do so by clicking `Code -> Download 
 
 And that's it! Everything will run on it's own when you launch your game next.
 
+### Startup lag?
+By default, in my custom user module (Located `TF2-Config/cfg/user/modules.cfg`) I have it set for my game to load itemtest and then immediately disconnect on initial game load. This is done to pre-load some custom mods, such as a mod to remove the original's floating left hand on higher viewmodel FOVs.
+
+If you would like to disable this, navigate to `TF2-Config/cfg/user/modules.cfg` and change `dynamic_background=itemtest` to `dynamic_background=off`
+
 ## Usage
 Included are several extensions I made to make some binds and functionality more accessible. You can feel free to disable these by adding `//` before the extensions you don't want to use in `TF2-Config/cfg/user/autoexec.cfg`. 
 
